@@ -10,6 +10,7 @@ const Fizzbuzz = function(number){
     }
 }
 
+
 Fizzbuzz(15)
 Fizzbuzz(3)
 Fizzbuzz(5)
