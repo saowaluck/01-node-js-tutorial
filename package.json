@@ -1,0 +1,22 @@
+{
+  "name": "01-node-js-tutorial",
+  "version": "1.0.0",
+  "description": "Start project with node js :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saowaluck/01-node-js-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saowaluck/01-node-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/saowaluck/01-node-js-tutorial#readme",
+  "dependencies": {
+    "yarn": "^1.3.2"
+  }
+}
